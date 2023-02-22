@@ -1,0 +1,118 @@
+[05:58:31] <strong>Record</strong> #1
+[05:58:31] Existing item found #981
+[05:58:31] post #981 Successfully Imported
+[05:58:31] <strong>Record</strong> #2
+[05:58:31] Existing item found #982
+[05:58:31] <strong>Warning</strong> : A valid URL was not provided.
+[05:58:31] <strong>Warning</strong> : File Download Error : URL ` http://localhost/astral-image/A1---AF300206CHBR---Basin-M.png` is not valid.
+[05:58:31] post #982 Successfully Imported
+[05:58:31] <strong>Record</strong> #3
+[05:58:31] Existing item found #979
+[05:58:31] <strong>Warning</strong> : A valid URL was not provided.
+[05:58:31] <strong>Warning</strong> : File Download Error : URL ` http://localhost/astral-image/A1---AF300216CHBR---Exposed.png` is not valid.
+[05:58:32] post #979 Successfully Imported
+[05:58:32] <strong>Record</strong> #4
+[05:58:32] Existing item found #983
+[05:58:32] <strong>Warning</strong> : A valid URL was not provided.
+[05:58:32] <strong>Warning</strong> : File Download Error : URL ` http://localhost/astral-image/A1---AF300101CHBR---Pillar-.png` is not valid.
+[05:58:32] post #983 Successfully Imported
+[05:58:32] <strong>Record</strong> #5
+[05:58:32] Existing item found #984
+[05:58:32] <strong>Warning</strong> : A valid URL was not provided.
+[05:58:32] <strong>Warning</strong> : File Download Error : URL ` http://localhost/astral-image/A1---AF300106CHBR---Pillar-.png` is not valid.
+[05:58:32] post #984 Successfully Imported
+[05:58:32] <strong>Record</strong> #6
+[05:58:32] Existing item found #985
+[05:58:32] <strong>Warning</strong> : A valid URL was not provided.
+[05:58:32] <strong>Warning</strong> : File Download Error : URL ` http://localhost/astral-image/A1---AF300121CHBR---Basin-M.png` is not valid.
+[05:58:32] post #985 Successfully Imported
+[05:58:32] <strong>Record</strong> #7
+[05:58:32] Existing item found #986
+[05:58:32] <strong>Warning</strong> : A valid URL was not provided.
+[05:58:32] <strong>Warning</strong> : File Download Error : URL ` http://localhost/astral-image/A1---AF300111CHBR---Exposed.png` is not valid.
+[05:58:32] post #986 Successfully Imported
+[05:58:32] <strong>Record</strong> #8
+[05:58:32] Existing item found #987
+[05:58:32] <strong>Warning</strong> : A valid URL was not provided.
+[05:58:32] <strong>Warning</strong> : File Download Error : URL ` http://localhost/astral-image/shower/A1---AF300301CHBR---Exposed.png` is not valid.
+[05:58:32] post #987 Successfully Imported
+[05:58:32] <strong>Record</strong> #9
+[05:58:32] Existing item found #988
+[05:58:32] <strong>Warning</strong> : A valid URL was not provided.
+[05:58:32] <strong>Warning</strong> : File Download Error : URL ` http://localhost/astral-image/shower/A1---AF300301CHBR---Exposed.png` is not valid.
+[05:58:32] post #988 Successfully Imported
+[05:58:32] <strong>Record</strong> #10
+[05:58:32] Existing item found #989
+[05:58:32] <strong>Warning</strong> : A valid URL was not provided.
+[05:58:32] <strong>Warning</strong> : File Download Error : URL ` http://localhost/astral-image/shower/A1---AF300301CHBR---Exposed.png` is not valid.
+[05:58:32] post #989 Successfully Imported
+[05:58:32] <strong>Record</strong> #11
+[05:58:32] Existing item found #990
+[05:58:32] <strong>Warning</strong> : A valid URL was not provided.
+[05:58:32] <strong>Warning</strong> : File Download Error : URL ` http://localhost/astral-image/shower/A1---AF300136CHBR---Wall-Mi.png` is not valid.
+[05:58:32] post #990 Successfully Imported
+[05:58:32] <strong>Record</strong> #12
+[05:58:32] Existing item found #991
+[05:58:32] <strong>Warning</strong> : A valid URL was not provided.
+[05:58:32] <strong>Warning</strong> : File Download Error : URL ` http://localhost/astral-image/shower/A1---AF300141CHBR---Wall-Mi.png` is not valid.
+[05:58:32] post #991 Successfully Imported
+[05:58:32] <strong>Record</strong> #13
+[05:58:32] Existing item found #992
+[05:58:32] <strong>Warning</strong> : A valid URL was not provided.
+[05:58:32] <strong>Warning</strong> : File Download Error : URL ` http://localhost/astral-image/shower/A1---AF300301CHBR---Exposed.png` is not valid.
+[05:58:32] post #992 Successfully Imported
+[05:58:32] <strong>Record</strong> #14
+[05:58:32] Existing item found #993
+[05:58:32] <strong>Warning</strong> : A valid URL was not provided.
+[05:58:32] <strong>Warning</strong> : File Download Error : URL ` http://localhost/astral-image/shower/A1---AF300336CHBR---Bathtub.png` is not valid.
+[05:58:32] post #993 Successfully Imported
+[05:58:32] <strong>Record</strong> #15
+[05:58:32] Existing item found #994
+[05:58:32] <strong>Warning</strong> : A valid URL was not provided.
+[05:58:32] <strong>Warning</strong> : File Download Error : URL ` http://localhost/astral-image/kitchen/A1---AF300176CHBR---Sink-Co.png` is not valid.
+[05:58:32] post #994 Successfully Imported
+[05:58:32] <strong>Record</strong> #16
+[05:58:32] Existing item found #995
+[05:58:32] <strong>Warning</strong> : A valid URL was not provided.
+[05:58:32] <strong>Warning</strong> : File Download Error : URL ` http://localhost/astral-image/kitchen/A1---AF300186CHBR---Sink-Co.png` is not valid.
+[05:58:32] post #995 Successfully Imported
+[05:58:32] <strong>Record</strong> #17
+[05:58:32] Existing item found #996
+[05:58:32] <strong>Warning</strong> : A valid URL was not provided.
+[05:58:32] <strong>Warning</strong> : File Download Error : URL ` http://localhost/astral-image/kitchen/A1---AF300276CHBR---Sink-Mi.png` is not valid.
+[05:58:32] post #996 Successfully Imported
+[05:58:32] <strong>Record</strong> #18
+[05:58:32] Existing item found #997
+[05:58:32] <strong>Warning</strong> : A valid URL was not provided.
+[05:58:32] <strong>Warning</strong> : File Download Error : URL ` http://localhost/astral-image/alind/A1---AF300156CHBR---Bib-Coc.png` is not valid.
+[05:58:32] post #997 Successfully Imported
+[05:58:32] <strong>Record</strong> #19
+[05:58:32] Existing item found #998
+[05:58:32] <strong>Warning</strong> : A valid URL was not provided.
+[05:58:32] <strong>Warning</strong> : File Download Error : URL ` http://localhost/astral-image/alind/A1---AF300161CHBR---Bib-Coc.png` is not valid.
+[05:58:32] post #998 Successfully Imported
+[05:58:32] <strong>Record</strong> #20
+[05:58:32] Existing item found #999
+[05:58:32] <strong>Warning</strong> : A valid URL was not provided.
+[05:58:32] <strong>Warning</strong> : File Download Error : URL ` http://localhost/astral-image/alind/A1---AF300126CHBR---Exposed.png` is not valid.
+[05:58:33] post #999 Successfully Imported
+[05:58:33] <strong>Record</strong> #21
+[05:58:33] Existing item found #999
+[05:58:33] <strong>Warning</strong> : A valid URL was not provided.
+[05:58:33] <strong>Warning</strong> : File Download Error : URL ` http://localhost/astral-image/alind/A1---AF300166CHBR---Angle-C.png` is not valid.
+[05:58:33] post #999 Successfully Imported
+[05:58:33] <strong>Record</strong> #22
+[05:58:33] Existing item found #999
+[05:58:33] <strong>Warning</strong> : A valid URL was not provided.
+[05:58:33] <strong>Warning</strong> : File Download Error : URL ` http://localhost/astral-image/alind/A1---AF300171CHBR---Angle-C.png` is not valid.
+[05:58:33] post #999 Successfully Imported
+[05:58:33] <strong>Record</strong> #23
+[05:58:33] Existing item found #1000
+[05:58:33] <strong>Warning</strong> : A valid URL was not provided.
+[05:58:33] <strong>Warning</strong> : File Download Error : URL ` http://localhost/astral-image/alind/A1---AF300166CHBR---Angle-C.png` is not valid.
+[05:58:33] post #1000 Successfully Imported
+[05:58:33] <strong>Record</strong> #24
+[05:58:33] Existing item found #1001
+[05:58:33] <strong>Warning</strong> : A valid URL was not provided.
+[05:58:33] <strong>Warning</strong> : File Download Error : URL ` http://localhost/astral-image/alind/A1---AF300171CHBR---Angle-C.png` is not valid.
+[05:58:33] post #1001 Successfully Imported

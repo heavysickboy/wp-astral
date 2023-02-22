@@ -1,0 +1,13 @@
+/* ABOUT US */
+.heading{max-width: 800px;margin: 0 auto;}
+.heading-wrapper{position: relative;}
+.heading-wrapper::before{content: '';position: absolute;width: 150px;height: 150px;top: 0;right: 0;background: url("../images/Artboard_2.svg") no-repeat;background-size: 100% auto;background-position: 20px 195%;}
+.heading-wrapper::after{content: '';position: absolute;width: 150px;height: 150px;left: 0;bottom: 0;background-image: url("../images/Artboard_2.svg");background-size: 100% auto;background-position: -35px -70%;}
+.heading h2{font-size: 32px;}
+.heading p{color: #707070;font-weight: 400;}
+.content{top: 0;right: 0;background-color: rgb(164 109 91 / 70%);max-width: 500px;}
+
+@media (max-width: 768px){
+.heading{padding-right: 1rem!important;padding-left: 1rem!important;}
+.content{padding-top: 15px;max-width: 100%;position: static !important;background-color: #A56D5A;}
+}

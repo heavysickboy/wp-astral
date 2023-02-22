@@ -1,0 +1,12 @@
+[11:55:44] <strong>Record</strong> #1
+[11:55:44] <strong>ERROR</strong> : Content, title, and excerpt are empty.
+[11:55:44] <strong>Record</strong> #2
+[11:55:44] <strong>ERROR</strong> : Content, title, and excerpt are empty.
+[11:55:44] <strong>Record</strong> #3
+[11:55:44] <strong>ERROR</strong> : Content, title, and excerpt are empty.
+[11:55:44] <strong>Record</strong> #4
+[11:55:44] <strong>ERROR</strong> : Content, title, and excerpt are empty.
+[11:55:44] <strong>Record</strong> #5
+[11:55:44] <strong>ERROR</strong> : Content, title, and excerpt are empty.
+[11:55:44] <strong>Record</strong> #6
+[11:55:44] <strong>ERROR</strong> : Content, title, and excerpt are empty.

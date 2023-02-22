@@ -1,0 +1,74 @@
+[01:20:19] <strong>Record</strong> #1
+[01:20:19] post #981 Successfully Imported
+[01:20:19] <strong>Record</strong> #2
+[01:20:19] <strong>Warning</strong> : A valid URL was not provided.
+[01:20:20] post #982 Successfully Imported
+[01:20:20] <strong>Record</strong> #3
+[01:20:20] Existing item found #979
+[01:20:20] <strong>Warning</strong> : A valid URL was not provided.
+[01:20:20] post #979 Successfully Imported
+[01:20:20] <strong>Record</strong> #4
+[01:20:20] <strong>Warning</strong> : A valid URL was not provided.
+[01:20:20] post #983 Successfully Imported
+[01:20:20] <strong>Record</strong> #5
+[01:20:20] <strong>Warning</strong> : A valid URL was not provided.
+[01:20:20] post #984 Successfully Imported
+[01:20:20] <strong>Record</strong> #6
+[01:20:20] <strong>Warning</strong> : A valid URL was not provided.
+[01:20:20] post #985 Successfully Imported
+[01:20:20] <strong>Record</strong> #7
+[01:20:20] <strong>Warning</strong> : A valid URL was not provided.
+[01:20:20] post #986 Successfully Imported
+[01:20:20] <strong>Record</strong> #8
+[01:20:20] <strong>Warning</strong> : A valid URL was not provided.
+[01:20:20] post #987 Successfully Imported
+[01:20:20] <strong>Record</strong> #9
+[01:20:20] <strong>Warning</strong> : A valid URL was not provided.
+[01:20:20] post #988 Successfully Imported
+[01:20:20] <strong>Record</strong> #10
+[01:20:20] <strong>Warning</strong> : A valid URL was not provided.
+[01:20:20] post #989 Successfully Imported
+[01:20:20] <strong>Record</strong> #11
+[01:20:20] <strong>Warning</strong> : A valid URL was not provided.
+[01:20:21] post #990 Successfully Imported
+[01:20:21] <strong>Record</strong> #12
+[01:20:21] <strong>Warning</strong> : A valid URL was not provided.
+[01:20:21] post #991 Successfully Imported
+[01:20:21] <strong>Record</strong> #13
+[01:20:21] <strong>Warning</strong> : A valid URL was not provided.
+[01:20:21] post #992 Successfully Imported
+[01:20:21] <strong>Record</strong> #14
+[01:20:21] <strong>Warning</strong> : A valid URL was not provided.
+[01:20:21] post #993 Successfully Imported
+[01:20:21] <strong>Record</strong> #15
+[01:20:21] <strong>Warning</strong> : A valid URL was not provided.
+[01:20:21] post #994 Successfully Imported
+[01:20:21] <strong>Record</strong> #16
+[01:20:21] <strong>Warning</strong> : A valid URL was not provided.
+[01:20:21] post #995 Successfully Imported
+[01:20:21] <strong>Record</strong> #17
+[01:20:21] <strong>Warning</strong> : A valid URL was not provided.
+[01:20:21] post #996 Successfully Imported
+[01:20:21] <strong>Record</strong> #18
+[01:20:21] <strong>Warning</strong> : A valid URL was not provided.
+[01:20:21] post #997 Successfully Imported
+[01:20:21] <strong>Record</strong> #19
+[01:20:21] <strong>Warning</strong> : A valid URL was not provided.
+[01:20:21] post #998 Successfully Imported
+[01:20:21] <strong>Record</strong> #20
+[01:20:21] <strong>Warning</strong> : A valid URL was not provided.
+[01:20:22] post #999 Successfully Imported
+[01:20:22] <strong>Record</strong> #21
+[01:20:22] Existing item found #999
+[01:20:22] <strong>Warning</strong> : A valid URL was not provided.
+[01:20:22] post #999 Successfully Imported
+[01:20:22] <strong>Record</strong> #22
+[01:20:22] Existing item found #999
+[01:20:22] <strong>Warning</strong> : A valid URL was not provided.
+[01:20:22] post #999 Successfully Imported
+[01:20:22] <strong>Record</strong> #23
+[01:20:22] <strong>Warning</strong> : A valid URL was not provided.
+[01:20:22] post #1000 Successfully Imported
+[01:20:22] <strong>Record</strong> #24
+[01:20:22] <strong>Warning</strong> : A valid URL was not provided.
+[01:20:22] post #1001 Successfully Imported

@@ -1,0 +1,110 @@
+2023-02-15T09:51:12+00:00 CRITICAL Uncaught Error: Call to a member function get_attribute() on null in /var/www/html/wp-content/themes/astral/woocommerce/singleproduct-metadetails.php:48
+Stack trace:
+#0 /var/www/html/wp-includes/template.php(785): require()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#2 /var/www/html/wp-content/themes/astral/search.php(54): wc_get_template_part()
+#3 /var/www/html/wp-includes/template-loader.php(106): include('...')
+#4 /var/www/html/wp-blog-header.php(19): require_once('...')
+#5 /var/www/html/index.php(17): require('...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/astral/woocommerce/singleproduct-metadetails.php on line 48
+
+2023-02-15T12:52:57+00:00 CRITICAL Uncaught Error: Call to a member function get_attribute() on null in /var/www/html/wp-content/themes/astral/woocommerce/singleproduct-metadetails.php:48
+Stack trace:
+#0 /var/www/html/wp-includes/template.php(785): require()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#2 /var/www/html/wp-content/themes/astral/search.php(54): wc_get_template_part()
+#3 /var/www/html/wp-includes/template-loader.php(106): include('...')
+#4 /var/www/html/wp-blog-header.php(19): require_once('...')
+#5 /var/www/html/index.php(17): require('...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/astral/woocommerce/singleproduct-metadetails.php on line 48
+
+2023-02-15T12:53:02+00:00 CRITICAL Uncaught Error: Call to a member function get_attribute() on null in /var/www/html/wp-content/themes/astral/woocommerce/singleproduct-metadetails.php:48
+Stack trace:
+#0 /var/www/html/wp-includes/template.php(785): require()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#2 /var/www/html/wp-content/themes/astral/search.php(54): wc_get_template_part()
+#3 /var/www/html/wp-includes/template-loader.php(106): include('...')
+#4 /var/www/html/wp-blog-header.php(19): require_once('...')
+#5 /var/www/html/index.php(17): require('...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/astral/woocommerce/singleproduct-metadetails.php on line 48
+
+2023-02-15T12:53:04+00:00 CRITICAL Uncaught Error: Call to a member function get_attribute() on null in /var/www/html/wp-content/themes/astral/woocommerce/singleproduct-metadetails.php:48
+Stack trace:
+#0 /var/www/html/wp-includes/template.php(785): require()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#2 /var/www/html/wp-content/themes/astral/search.php(54): wc_get_template_part()
+#3 /var/www/html/wp-includes/template-loader.php(106): include('...')
+#4 /var/www/html/wp-blog-header.php(19): require_once('...')
+#5 /var/www/html/index.php(17): require('...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/astral/woocommerce/singleproduct-metadetails.php on line 48
+
+2023-02-15T12:53:09+00:00 CRITICAL Uncaught Error: Call to a member function get_attribute() on null in /var/www/html/wp-content/themes/astral/woocommerce/singleproduct-metadetails.php:48
+Stack trace:
+#0 /var/www/html/wp-includes/template.php(785): require()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#2 /var/www/html/wp-content/themes/astral/search.php(54): wc_get_template_part()
+#3 /var/www/html/wp-includes/template-loader.php(106): include('...')
+#4 /var/www/html/wp-blog-header.php(19): require_once('...')
+#5 /var/www/html/index.php(17): require('...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/astral/woocommerce/singleproduct-metadetails.php on line 48
+
+2023-02-15T12:53:14+00:00 CRITICAL Uncaught Error: Call to a member function get_attribute() on null in /var/www/html/wp-content/themes/astral/woocommerce/singleproduct-metadetails.php:48
+Stack trace:
+#0 /var/www/html/wp-includes/template.php(785): require()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#2 /var/www/html/wp-content/themes/astral/search.php(54): wc_get_template_part()
+#3 /var/www/html/wp-includes/template-loader.php(106): include('...')
+#4 /var/www/html/wp-blog-header.php(19): require_once('...')
+#5 /var/www/html/index.php(17): require('...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/astral/woocommerce/singleproduct-metadetails.php on line 48
+
+2023-02-15T13:00:04+00:00 CRITICAL Uncaught Error: Call to a member function get_attribute() on null in /var/www/html/wp-content/themes/astral/woocommerce/singleproduct-metadetails.php:48
+Stack trace:
+#0 /var/www/html/wp-includes/template.php(785): require()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#2 /var/www/html/wp-content/themes/astral/search.php(54): wc_get_template_part()
+#3 /var/www/html/wp-includes/template-loader.php(106): include('...')
+#4 /var/www/html/wp-blog-header.php(19): require_once('...')
+#5 /var/www/html/index.php(17): require('...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/astral/woocommerce/singleproduct-metadetails.php on line 48
+
+2023-02-15T13:00:04+00:00 CRITICAL Uncaught Error: Call to a member function get_attribute() on null in /var/www/html/wp-content/themes/astral/woocommerce/singleproduct-metadetails.php:48
+Stack trace:
+#0 /var/www/html/wp-includes/template.php(785): require()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#2 /var/www/html/wp-content/themes/astral/search.php(54): wc_get_template_part()
+#3 /var/www/html/wp-includes/template-loader.php(106): include('...')
+#4 /var/www/html/wp-blog-header.php(19): require_once('...')
+#5 /var/www/html/index.php(17): require('...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/astral/woocommerce/singleproduct-metadetails.php on line 48
+
+2023-02-15T13:00:05+00:00 CRITICAL Uncaught Error: Call to a member function get_attribute() on null in /var/www/html/wp-content/themes/astral/woocommerce/singleproduct-metadetails.php:48
+Stack trace:
+#0 /var/www/html/wp-includes/template.php(785): require()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#2 /var/www/html/wp-content/themes/astral/search.php(54): wc_get_template_part()
+#3 /var/www/html/wp-includes/template-loader.php(106): include('...')
+#4 /var/www/html/wp-blog-header.php(19): require_once('...')
+#5 /var/www/html/index.php(17): require('...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/astral/woocommerce/singleproduct-metadetails.php on line 48
+
+2023-02-15T13:00:10+00:00 CRITICAL Uncaught Error: Call to a member function get_attribute() on null in /var/www/html/wp-content/themes/astral/woocommerce/singleproduct-metadetails.php:48
+Stack trace:
+#0 /var/www/html/wp-includes/template.php(785): require()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(284): load_template()
+#2 /var/www/html/wp-content/themes/astral/search.php(54): wc_get_template_part()
+#3 /var/www/html/wp-includes/template-loader.php(106): include('...')
+#4 /var/www/html/wp-blog-header.php(19): require_once('...')
+#5 /var/www/html/index.php(17): require('...')
+#6 {main}
+  thrown in /var/www/html/wp-content/themes/astral/woocommerce/singleproduct-metadetails.php on line 48
+

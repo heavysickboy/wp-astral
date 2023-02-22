@@ -1,0 +1,18 @@
+[11:22:35] <strong>Record</strong> #1
+[11:22:35] <strong>Warning</strong> : File Download Error : URL `D2 - AF720201CHBR - Basin Mixer Single Lever.jpg` is not valid.
+[11:22:35] post #620 Successfully Imported
+[11:22:35] <strong>Record</strong> #2
+[11:22:35] <strong>Warning</strong> : File Download Error : URL `D2 - AF720206CHBR - Basin Mixer Single Lever Extension body.jpg` is not valid.
+[11:22:35] post #621 Successfully Imported
+[11:22:35] <strong>Record</strong> #3
+[11:22:35] <strong>Warning</strong> : File Download Error : URL `D2 - AF720216CHBR - Exposed part of Wall mounted Single lever basin mixer with 2 mm Sheet Flange (1) (1).jpg` is not valid.
+[11:22:35] post #622 Successfully Imported
+[11:22:35] <strong>Record</strong> #4
+[11:22:35] <strong>Warning</strong> : File Download Error : URL `D2 - AF720106CHBR - Pillar cock extended body.jpg` is not valid.
+[11:22:35] post #623 Successfully Imported
+[11:22:35] <strong>Record</strong> #5
+[11:22:35] <strong>Warning</strong> : File Download Error : URL `D2 - AF720116CHBR - Exposed part of Wall mounted basin cock with spout and operating lever with 2 mm Sheet Flange (1).jpg` is not valid.
+[11:22:35] post #624 Successfully Imported
+[11:22:35] <strong>Record</strong> #6
+[11:22:35] <strong>Warning</strong> : File Download Error : URL `D2 - AF720306CHBR - Exposed part of Single lever concealed diverter with 2 mm Sheet Flange (1).jpg` is not valid.
+[11:22:36] post #625 Successfully Imported

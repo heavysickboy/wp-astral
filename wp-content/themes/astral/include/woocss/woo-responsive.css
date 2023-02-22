@@ -1,0 +1,5 @@
+@media (min-width: 992px){
+.filterWrapper {
+    border-right: 1px solid #ddd;
+}
+}

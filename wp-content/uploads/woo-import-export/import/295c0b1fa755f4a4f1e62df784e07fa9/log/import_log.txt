@@ -1,0 +1,24 @@
+[11:58:12] <strong>Record</strong> #1
+[11:58:12] Existing item found #626
+[11:58:12] <strong>Warning</strong> : Forbidden
+[11:58:12] post #626 Successfully Imported
+[11:58:12] <strong>Record</strong> #2
+[11:58:12] Existing item found #621
+[11:58:13] <strong>Warning</strong> : Forbidden
+[11:58:13] post #621 Successfully Imported
+[11:58:13] <strong>Record</strong> #3
+[11:58:13] Existing item found #622
+[11:58:13] <strong>Warning</strong> : Forbidden
+[11:58:13] post #622 Successfully Imported
+[11:58:13] <strong>Record</strong> #4
+[11:58:13] Existing item found #623
+[11:58:14] <strong>Warning</strong> : Forbidden
+[11:58:14] post #623 Successfully Imported
+[11:58:14] <strong>Record</strong> #5
+[11:58:14] Existing item found #624
+[11:58:14] <strong>Warning</strong> : Forbidden
+[11:58:14] post #624 Successfully Imported
+[11:58:14] <strong>Record</strong> #6
+[11:58:14] Existing item found #625
+[11:58:15] <strong>Warning</strong> : Forbidden
+[11:58:15] post #625 Successfully Imported

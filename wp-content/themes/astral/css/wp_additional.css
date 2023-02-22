@@ -1,0 +1,47 @@
+.custom-logo{width:auto; height:40px; position:relative; z-index:1;}
+
+.wpcf7-submit{border-left:1px solid #a56d5a; border-right:1px solid #a56d5a; }
+.wpcf7-submit:hover{background:#a56d5a; color:#fff}
+
+.wpcf7-spinner{display:none !important;}
+.newsletterBox .wpcf7-not-valid-tip{position:absolute;}
+.wpcf7 form .wpcf7-response-output{width:100%; max-width:340px !important;}
+
+
+.woocommerce-ordering{border:1px solid #ddd;}
+
+.filterBtn{display:none;}
+.viwcpf_wrap_filter-content{padding-bottom:0}
+
+
+.viwcpf_wrap_filter-content .viwcpf_filter.viwcpf_range_slider .irs--round .irs-from, .viwcpf_wrap_filter-content .viwcpf_filter.viwcpf_range_slider .irs--round .irs-single, .viwcpf_wrap_filter-content .viwcpf_filter.viwcpf_range_slider .irs--round .irs-to{background:none !important;  color:#000;}
+
+.irs--round .irs-from:before, .irs--round .irs-to:before, .irs--round .irs-single:before{display:none !important;}
+.viwcpf_wrap_filter-content .viwcpf_filter.viwcpf_range_slider .irs--round .irs-from{left:-3% !important;}
+.viwcpf_wrap_filter-content .viwcpf_filter.viwcpf_range_slider .irs--round .irs-to{left:76% !important;}
+
+
+@media (max-width:999px) {
+    .VIWCPF_Widget_Filter_Menu_class{display:none; padding:10px; margin-top:-10px; border:1px solid #ddd;}
+.filterBtn{display: block; background:none; color:#000; font-size:15px; width:100%; text-align:left; padding:5px 15px; border:1px solid #ddd !important; position:relative;margin-bottom: 10px; border: 0;}
+.filterBtn:focus{/*border:2px solid #fff; */color:#000; background:#ddd; }
+.filterBtn:before{width:8px; height:8px;  position: absolute; top:10px; right:15px; color: transparent; z-index: 1; content:"";   border-top: 1px solid #000; border-left: 1px solid #000; transform: rotate(225deg); }
+/*.filterBtn:focus:before{transform: rotate(45deg); top:10px; }*/
+    
+    }
+
+@media (max-width:768px) {
+.woocommerce .col{flex: 0 0 auto;    width: 100% !important;;}
+
+
+    
+}
+
+
+.meta_details strong{width:100%; position:relative;}
+.meta_details strong:before{position:absolute; right:-15px; content:":";}
+
+span.wishlist_products_counter_number{color:#000 !important;}
+
+.swiper-button-next.swiper-button-disabled, .swiper-button-prev.swiper-button-disabled{pointer-events: auto;}
+
